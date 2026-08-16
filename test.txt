@@ -1,2 +1,6 @@
 my name is kothai alagar
+<<<<<<< HEAD
 my name is harish
+=======
+my name is abi
+>>>>>>> d58f995a13b6140bea8fc886d489a75d51919419
